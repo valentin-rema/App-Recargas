@@ -1,5 +1,3 @@
-//clave api
-// AIzaSyAyjANqc_mT5lwxVJ-QI7cAwVQHh04Oeyg 
 
 import 'dart:convert';
 
