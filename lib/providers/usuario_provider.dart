@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 
 class UsuarioProvider{
 
-  final _clave= 'AIzaSyAyjANqc_mT5lwxVJ-QI7cAwVQHh04Oeyg';
+  final _clave= ''; //aqui va la clave para acceder al servicio
 
 
 

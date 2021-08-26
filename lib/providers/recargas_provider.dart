@@ -9,10 +9,6 @@ import 'package:recargas/models/total_model.dart';
 //import 'package:recargas/src/pages/total_ventas.dart';
 //mport 'package:recargas/models/saldo_model.dart';
 
-
-
-
-
 class RecargaProvider{
 
 
@@ -26,7 +22,7 @@ class RecargaProvider{
   //las variables que vamos a utilizar para poder hacer el envio de datos a firebase
 
   //la llave o el endpoint para poder acceder al servicio
-  final _url = 'https://t-mar-f97a6.firebaseio.com';
+  final _url = ''; //aqui va la llave o el endpoint para acceder al servicio
 
 
 
